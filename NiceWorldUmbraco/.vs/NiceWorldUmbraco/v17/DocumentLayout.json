@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|c:\\users\\clark\\source\\repos\\niceworldumbraco\\niceworldumbraco\\views\\macropartials\\latestpublishedhotels.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\macropartials\\latestpublishedhotels.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\stylesheets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\stylesheets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\sections\\destinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\sections\\destinations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\sections\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\sections\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\sections\\branch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\sections\\branch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\css\\style-find-room.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\css\\style-find-room.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\master.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\sections\\sectionswiperslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\sections\\sectionswiperslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\partials\\javascripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\partials\\javascripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\views\\district.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\district.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|c:\\users\\clark\\source\\repos\\niceworldumbraco\\niceworldumbraco\\views\\navigationbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\navigationbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|c:\\users\\clark\\source\\repos\\niceworldumbraco\\niceworldumbraco\\views\\contentbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\views\\contentbase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\app_plugins\\modelsbuilder\\package.manifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\app_plugins\\modelsbuilder\\package.manifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.resource.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.resource.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08790349-6C77-42A4-B791-BDA6EBB5EC21}|NiceWorldUmbraco\\NiceWorldUmbraco.csproj|solutionrelative:niceworldumbraco\\app_plugins\\modelsbuilder\\modelsbuilder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\packages\\UmbracoCms.8.10.0\\tools\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\UmbracoCms.8.10.0\\tools\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Branch.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Branch.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Branch.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Branch.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Branch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:53:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Hotel.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Hotel.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Hotel.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Hotel.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAkwFoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:09:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Destinations.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Destinations.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Destinations.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Destinations.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Destinations.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAkwM4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T08:32:07.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\Portfolio.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\Sections\\Portfolio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:12:34.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LatestPublishedHotels.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\MacroPartials\\LatestPublishedHotels.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\MacroPartials\\LatestPublishedHotels.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\MacroPartials\\LatestPublishedHotels.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\MacroPartials\\LatestPublishedHotels.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:07:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Home.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Home.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:06:15.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheets.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\StyleSheets.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\StyleSheets.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\StyleSheets.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\StyleSheets.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T03:52:37.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\css\\style.css",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\css\\style.css",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\css\\style.css",
+              "RelativeToolTip": "NiceWorldUmbraco\\css\\style.css",
+              "ViewState": "AQIAAKMEAAAAAAAAAAAkwMoEAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T15:43:25.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\scripts\\script.js",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\scripts\\script.js",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\scripts\\script.js",
+              "RelativeToolTip": "NiceWorldUmbraco\\scripts\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T15:42:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SectionSwiperSlider.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\SectionSwiperSlider.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\Sections\\SectionSwiperSlider.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\Sections\\SectionSwiperSlider.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\Sections\\SectionSwiperSlider.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:27:26.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style-find-room.css",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\css\\style-find-room.css",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\css\\style-find-room.css",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\css\\style-find-room.css",
+              "RelativeToolTip": "NiceWorldUmbraco\\css\\style-find-room.css",
+              "ViewState": "AQIAADcCAAAAAAAAAAAQwF8CAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-05T10:15:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Master.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Master.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Master.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Master.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Master.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:06:27.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContentPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\ContentPage.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\ContentPage.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\ContentPage.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\ContentPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:31:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "District.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\District.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\District.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\District.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\District.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:31:43.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavigationBase.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\NavigationBase.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\NavigationBase.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\NavigationBase.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\NavigationBase.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:09:11.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JavaScripts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\JavaScripts.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\Partials\\JavaScripts.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\Partials\\JavaScripts.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\Partials\\JavaScripts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T15:06:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContentBase.cshtml",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\ContentBase.cshtml",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\Views\\ContentBase.cshtml",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\Views\\ContentBase.cshtml",
+              "RelativeToolTip": "NiceWorldUmbraco\\Views\\ContentBase.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:07:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "modelsbuilder.controller.js",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.controller.js",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.controller.js",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.controller.js",
+              "RelativeToolTip": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.controller.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T14:00:34.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.manifest",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\package.manifest",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\package.manifest",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\package.manifest",
+              "RelativeToolTip": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\package.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-09-04T14:00:22.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "modelsbuilder.resource.js",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.resource.js",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.resource.js",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.resource.js",
+              "RelativeToolTip": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.resource.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T14:00:15.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "modelsbuilder.html",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.html",
+              "RelativeDocumentMoniker": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.html",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.html",
+              "RelativeToolTip": "NiceWorldUmbraco\\App_Plugins\\ModelsBuilder\\modelsbuilder.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-04T14:00:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\packages\\UmbracoCms.8.10.0\\tools\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\UmbracoCms.8.10.0\\tools\\Readme.txt",
+              "ToolTip": "C:\\Users\\Clark\\source\\repos\\NiceWorldUmbraco\\packages\\UmbracoCms.8.10.0\\tools\\Readme.txt",
+              "RelativeToolTip": "packages\\UmbracoCms.8.10.0\\tools\\Readme.txt",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T12:10:46.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
